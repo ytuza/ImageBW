@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ImageBW", "ImageBW.vcxproj", "{E1BBC5D7-9A9B-4AE8-8D4B-80909E7F89FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E1BBC5D7-9A9B-4AE8-8D4B-80909E7F89FD}.Debug|x64.ActiveCfg = Debug|x64
+		{E1BBC5D7-9A9B-4AE8-8D4B-80909E7F89FD}.Debug|x64.Build.0 = Debug|x64
+		{E1BBC5D7-9A9B-4AE8-8D4B-80909E7F89FD}.Release|x64.ActiveCfg = Release|x64
+		{E1BBC5D7-9A9B-4AE8-8D4B-80909E7F89FD}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCA462EB-FA85-4E45-A1F5-E445DB8073AD}
+	EndGlobalSection
+EndGlobal
